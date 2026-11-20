@@ -1,5 +1,4 @@
-# JAVA
-Variables y Estructuras
+
 # JAVA — VARIABLES Y ESTRUCTURAS
 
 Repositorio de recopilación, documentación y aprendizaje de los fundamentos del lenguaje de programación Java.
